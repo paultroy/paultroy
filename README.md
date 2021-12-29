@@ -1,0 +1,2 @@
+- Hi, I’m Paul. I’m interested in data and product. I love problem solving and learning new skills. 
+- I'm continuing to build out my data toolkit after graduating from a data science & machine learning bootcamp through Metis.
